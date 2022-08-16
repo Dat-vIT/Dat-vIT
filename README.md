@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dat-vIT, punk rock drummer and Data Analytics enthusiast.
+- 👀 I’m interested in music, food, traveling, Data Analytics and IT. 
+- 🌱 I’m currently learning SQL, Python and R. 
+- 💞️ For the time being, I'd love to observe how others make use of GitHub, SQL, Python, and any other tools in their day-to-day jobs so I can gain a better perspective on what Data Analytics actually is!
+- 📫 Please reach out if you have a word or two for me, I'd appreciate more info from those who are already where I want to be. 
